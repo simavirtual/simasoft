@@ -1137,16 +1137,16 @@ FUNCTION DbfStrSof(cAnoUsr)
        StrCarCtT(FileArc,cTitArc,aCamGen,@aRegIni)
      *ÀTabla. Movimientos Contabables
 
-       cTitArc := 'MOVIMIENTOS'
-       FileArc := 'MOVICONTA.DAT'
-       StrCarMvt(FileArc,cTitArc,aCamGen,@aRegIni)
+       cTitArc := 'CONCILIACIONES'
+       FileArc := 'CONCILIA.DAT'
+       StrCarCnc(FileArc,cTitArc,aCamGen,@aRegIni)
      *ÀTabla. Movimientos Contabables
 
 */
 
-       cTitArc := 'CONCILIACIONES'
-       FileArc := 'CONCILIA.DAT'
-       StrCarCnc(FileArc,cTitArc,aCamGen,@aRegIni)
+       cTitArc := 'MOVIMIENTOS'
+       FileArc := 'MOVICONTA.DAT'
+       StrCarMvt(FileArc,cTitArc,aCamGen,@aRegIni)
      *ÀTabla. Movimientos Contabables
 *>>>>FIN ESTRUCTURAS. SIMA
 
