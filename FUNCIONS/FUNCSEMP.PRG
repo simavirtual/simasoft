@@ -144,6 +144,7 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','COLEGIO LA SALLE - CUCUTA'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','SALLECUT'}})
 *>>>>FIN REGISTROS POR DEFECTO CUCUTA
 
@@ -152,18 +153,21 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','COLEGIO DE LA SALLE BOGOTA'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','COLSALLE'}})
 
        AADD(aRegIni,{{'ARC->cCodigoEmp','COLCUN001002'},;
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','INSTITUTO SAN BERNARDO DE LA SALLE'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','ISB'}})
 
        AADD(aRegIni,{{'ARC->cCodigoEmp','COLCUN001003'},;
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','LICEO HERMANO MIGUEL LA SALLE'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','LHM'}})
 /*
        AADD(aRegIni,{{'ARC->cCodigoEmp','COLCUN001004'},;
@@ -190,6 +194,7 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0007'},;
 		     {'ARC->cNombreEmp','ASOPAF - INSTITUTO SAN BERNARDO DE LA SALLE'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','ASPAISB'}})
 
        AADD(aRegIni,{{'ARC->cCodigoEmp','COLCUN001007'},;
@@ -284,6 +289,7 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','COLEGIO LA SALLE VILLAVICENCIO'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','VILLABO'}})
 *>>>>FIN REGISTROS POR DEFECTO VILLAVICENCIO
 
@@ -292,6 +298,7 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0001'},;
 		     {'ARC->cNombreEmp','ESCUELA LA SALLE PARA LA PAZ Y LA VIDA'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','PAZVIDA'}})
 *>>>>FIN REGISTROS POR DEFECTO VILLAVICENCIO
 
@@ -300,6 +307,7 @@ FUNCTION CreaDbfEmp(lShared,nModCry,PathArc,fArchvo,fNtxArc,aStrDbf)
 		     {'ARC->cCodigoTip','0103'},;
 		     {'ARC->cCodigoCmd','0002'},;
 		     {'ARC->cNombreEmp','COLEGIO DE LA SALLE - CARTAGENA'},;
+		     {'ARC->cNroNitEmp','8600099850'},;
 		     {'ARC->cNaliasEmp','CTGDIU'}})
 
        AADD(aRegIni,{{'ARC->cCodigoEmp','COLBOL001002'},;
